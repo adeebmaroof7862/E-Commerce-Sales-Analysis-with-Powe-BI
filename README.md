@@ -6,6 +6,5 @@ Steps involve:
 3. observed the variables and choosed graphes according to data.
 4. added quater-wise and state-wise filters to get more precised visuallization for particular state in particular quater of year.
 
-
 Conclusion:
       I suggested some business insights for the improvement of categories and to increase the overall sales.  
